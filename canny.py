@@ -1,5 +1,6 @@
+#Biblioteca
 import cv2
-
+#Capturar informacion
 capture = cv2.VideoCapture(0)
 
 while capture.isOpened():
